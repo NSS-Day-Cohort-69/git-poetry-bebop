@@ -6,7 +6,12 @@ and I have over 300 confirmed flower beds.
 
 Roses are violets.
 Violets are orange.
+<<<<<<< HEAD
+Github is beautiful
+I like turtles
+=======
 Github is cool
+>>>>>>> main
 And so are you.
 
 this is a poem.
