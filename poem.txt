@@ -16,7 +16,14 @@ this is a poem.
 
 bruh moment
 
+this is a change to the poem
+
 Bruh says what?
 
 this is a change to the poem
+<<<<<<< HEAD
 Colder than a witch's titty in a brass bra
+=======
+
+your mom lol
+>>>>>>> 142c6c24aa649addbc31dcf9db1de25a6833f1c0
